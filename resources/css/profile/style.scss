@@ -214,9 +214,6 @@ footer p {
     .news-contents {
         flex-direction: column;
     }
-    #news .page-title {
-        margin-top: 90px;
-    }
     article,
     aside {
         width: 100%;
@@ -225,6 +222,7 @@ footer p {
         margin-top: 60px;
     }
     .post-info {
+        margin-top: -120px;
         margin-bottom: 30px;
     }
     .post-date {
@@ -246,5 +244,9 @@ footer p {
     .post-title,
     .post-cat {
         margin-left: 80px;
+    }
+
+    #news .page-title {
+        margin-top: 30px;
     }
 }
