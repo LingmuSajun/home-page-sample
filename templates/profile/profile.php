@@ -7,7 +7,7 @@
         <link rel="icon" type="image/png" href="../../resources/images/zanzaibar.jpg">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- CSS -->
+        <!-- CSS -->
         <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
         <link href="https://fonts.googleapis.com/css?family=Philosopher" rel="stylesheet">
         <link href="../../resources/css/profile/style.css" rel="stylesheet">
