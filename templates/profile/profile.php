@@ -19,7 +19,7 @@
                 <h1></h1>
                 <nav>
                     <ul class="main-nav">
-                        <li><a href="profile.html">PROFILE</a></li>
+                        <li><a href="profile.php">PROFILE</a></li>
                         <li><a href="menu.html">PORTFOLIO</a></li>
                         <li><a href="contact.html">Contact</a></li>
                     </ul>
@@ -35,7 +35,7 @@
             <article>
                 <header class="post-info">
                     <h2 class="post-title">新進気鋭のDeveloper</h2>
-                    <p class="post-date">3/12 <span>2020</span></p>
+                    <p class="post-date"><?php echo date("m/d"); ?> <span><?php echo date("Y"); ?></span></p>
                     <p class="post-cat">職種：サーバサイドエンジニア</p>
                 </header>
                 <img src="../../resources/images/zanzaibar2.jpg" alt="店内の様子">
