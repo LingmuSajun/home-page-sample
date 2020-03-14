@@ -47,24 +47,6 @@ img {
   font-weight: normal;
 }
 
-/* ボタン */
-.button {
-  font-size: 1.375rem;
-  background: #f73ff7;
-  color: #fff;
-  border-radius: 5px;
-  padding: 18px 32px;
-}
-
-.button:hover {
-  background: #0090aa;
-}
-
-/* iframe */
-iframe {
-  width: 100%;
-}
-
 /* HEADER
 ------------------------------- */
 .page-header {
@@ -240,10 +222,6 @@ footer p {
   }
   .main-nav li {
     margin: 0 20px;
-  }
-  /* HOME */
-  .home-content {
-    margin-top: 20%;
   }
   /* NEWS */
   .news-contents {
