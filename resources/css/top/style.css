@@ -301,10 +301,10 @@ img {
 }
 
 @media (min-width: 600px) {
-  .mobile-menu__btn {
+  .header {
     display: none;
   }
-  .header {
+  .mobile-menu {
     display: none;
   }
 }
